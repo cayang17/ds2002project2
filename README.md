@@ -26,4 +26,5 @@ A simple Flask-based chatbot that answers:
    ```
 4. Access at public IP.
 
-### Public IP
+### Public URL 
+http://34.57.73.18:5000/chat
